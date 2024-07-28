@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor
-- 👀 I’m currently working as a Hardware Engineer at Checkpoint Systems Inc. However, I think my interests and future are with Software. I am looking for a Software Engineer position.
-- 🌱 I’m currently learning Python due to its versatile nature. I am trying to make an in-depth text adventure game
+- 👀 I’m currently working as a Software Engineer at Checkpoint Systems Inc.
+- 🌱 I’m currently learning Python due to its versatile nature. I am currently taking a python bootcamp course on Udemy as well as writing python code daily at work.
 - 📫 I can be reached at connorryan001@gmail.com
 
 <!---
